@@ -1,0 +1,15 @@
+const Event = require("../struct/event.js");
+
+class TemplateEvent extends Event {
+  constructor() {
+    super({
+      id: "",
+      once: false,
+    });
+  }
+
+  do() {
+  }
+}
+
+module.exports = TemplateEvent;

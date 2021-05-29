@@ -1,5 +1,5 @@
 **Getting Started**
-This Discord Music is an advanced, easy to setup, free, and unbranded Discord bot.
+This Discord Template with Slash is an advanced, easy to setup, free, and unbranded Discord bot.
 
 **Official Discord Server**
 If you need help with the bot, feel free to join our official server here: https://discord.com/invite/n6EnQcQNxg.
